@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Yes it is displayed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21709" started-at="2019-11-23T19:20:22 IST" finished-at="2019-11-23T19:20:43 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21709" started-at="2019-11-23T19:20:22 IST" finished-at="2019-11-23T19:20:43 IST">
+      <class name="mavenProject.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenProject.NewTest@30b8a058]" name="beforeTest" is-config="true" duration-ms="42" started-at="2019-11-23T19:20:22 IST" finished-at="2019-11-23T19:20:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mavenProject.NewTest@30b8a058]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-11-23T19:20:22 IST" finished-at="2019-11-23T19:20:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Tesing()[pri:0, instance:mavenProject.NewTest@30b8a058]" name="Tesing" duration-ms="21562" started-at="2019-11-23T19:20:22 IST" finished-at="2019-11-23T19:20:43 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Yes it is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Tesing -->
+        <test-method status="PASS" signature="f()[pri:0, instance:mavenProject.NewTest@30b8a058]" name="f" duration-ms="4" started-at="2019-11-23T19:20:43 IST" finished-at="2019-11-23T19:20:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="show()[pri:0, instance:mavenProject.NewTest@30b8a058]" name="show" duration-ms="5" started-at="2019-11-23T19:20:43 IST" finished-at="2019-11-23T19:20:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- show -->
+      </class> <!-- mavenProject.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
