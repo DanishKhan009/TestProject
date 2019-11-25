@@ -54,6 +54,7 @@ public class NewTest {
 		userId.sendKeys("gmailID");
 
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+	  	//Test
 		
 		if (userId.isDisplayed()) {
 			Reporter.log("Yes it is displayed");
